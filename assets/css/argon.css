@@ -17181,8 +17181,7 @@ textarea[resize='horizontal']
 {
     position: relative;
 
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    margin-top: 2.5rem;
 }
 
 .section-xl
